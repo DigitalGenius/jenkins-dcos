@@ -131,6 +131,8 @@
 		<translation.version>1.15</translation.version>
 		<variant.version>1.0</variant.version>
 		<windows-slaves.version>1.2</windows-slaves.version>
+		<!-- Digital Genius Install set -->
+		<github-oauth.version>0.24</github-oauth.version>
 	</properties>
 
 	<build>
