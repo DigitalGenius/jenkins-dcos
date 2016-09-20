@@ -782,6 +782,14 @@
 							<version>${workflow-support.version}</version>
 							<type>hpi</type>
 						</artifactItem>
+		<!-- Digital Genius Install set -->
+						<artifactItem>
+							<groupId>org.jenkins-ci.plugins</groupId>
+							<artifactId>github-oauth</artifactId>
+							<version>${github-oauth.version}</version>
+							<type>hpi</type>
+						</artifactItem>
+		<!-- Digital Genius Install set -->
 					</artifactItems>
 					<outputDirectory>${project.build.directory}/plugins</outputDirectory>
 				</configuration>
